@@ -1,0 +1,37 @@
+{
+  "_args": [
+    [
+      "node-red-contrib-foreach",
+      "/root/.node-red"
+    ]
+  ],
+  "author": {
+    "email": "daniel@networklighthouse.com",
+    "name": "Daniel Thomas"
+  },
+  "dependencies": {
+  },
+  "description": "breaks msg.payload (being an a array) into multiplemessgaes",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "node-red",
+    "foreach"
+  ],
+  "maintainers": [
+    {
+      "email": "",
+      "name": ""
+    }
+  ],
+  "name": "node-red-contrib-foreach",
+  "node-red": {
+    "nodes": {
+      "foreach": "foreach.js"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.1"
+}
